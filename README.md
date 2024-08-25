@@ -20,14 +20,16 @@
     ```
 3. Install the dependencies:
     ```bash
-    npm install
+    npm install<br>
+    or<br>
     pnpm install
     ```
 
 ## Usage
 1. Start the application:
     ```bash
-    npm start
+    npm start<br>
+    or<br>
     pnpm run dev
     ```
 2. Open your browser and go to `http://localhost:3000` to view the application.
@@ -45,11 +47,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## Features
-Market Analysis: Provides insights into the current car market, including price trends, demand, and popular models.
-Interactive Visualizations: Various charts and graphs to visualize car data trends.
-Data Filtering: Filter data based on various parameters like model, make, year, and price.
-User-Friendly Interface: Intuitive and easy-to-navigate UI for seamless user experience.
 
 ## Team Members
 Sec(542)<br>

@@ -2,6 +2,49 @@
 ## Overview
  The Car Analytics Dashboard is a comprehensive tool designed to analyze and visualize car market data. It provides insights into various car metrics such as price trends, popular models, and market demand, helping users make informed decisions when buying or selling cars.
 
+## Table of Contents
+- Installation
+- Usage
+- Features
+- Contributing
+- License
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/car-analytics.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd car-analytics
+    ```
+3. Install the dependencies:
+    ```bash
+    npm install
+    pnpm install
+    ```
+
+## Usage
+1. Start the application:
+    ```bash
+    npm start
+    pnpm run dev
+    ```
+2. Open your browser and go to `http://localhost:3000` to view the application.
+
+## Features
+- Analyze car models and their market values
+- Visualize data with charts and graphs
+- Highlight specific cars for detailed analysis
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
 ## Features
 Market Analysis: Provides insights into the current car market, including price trends, demand, and popular models.
 Interactive Visualizations: Various charts and graphs to visualize car data trends.

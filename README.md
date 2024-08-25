@@ -58,10 +58,14 @@ Sec(542)<br>
 ##Screenshots
 
 ![img alt](https://github.com/Yoonlimin/Car-Analytics/blob/7e1d3698e0fa9a8f9f282803a9b68edb623e76be/screenshots/piechart.png)
+
 ![img alt](https://github.com/Yoonlimin/Car-Analytics/blob/ac28e1d41a6458c004acfa0c8ed034b1492598e8/screenshots/stackedBarChart.png)
-![img alt](https://github.com/Yoonlimin/Car-Analytics/blob/7e1d3698e0fa9a8f9f282803a9b68edb623e76be/screenshots/piechart.png)
-![img alt](https://github.com/Yoonlimin/Car-Analytics/blob/7e1d3698e0fa9a8f9f282803a9b68edb623e76be/screenshots/piechart.png)
-![img alt](https://github.com/Yoonlimin/Car-Analytics/blob/7e1d3698e0fa9a8f9f282803a9b68edb623e76be/screenshots/piechart.png)
+
+![img alt](https://github.com/Yoonlimin/Car-Analytics/blob/8fbd80e0f0b3b832488de48eb941d3bd1bfc72b9/screenshots/CarBrandsSselection.png)
+
+![img alt](https://github.com/Yoonlimin/Car-Analytics/blob/8fbd80e0f0b3b832488de48eb941d3bd1bfc72b9/screenshots/Highlighting_Cars.png)
+
+![img alt](https://github.com/Yoonlimin/Car-Analytics/blob/8fbd80e0f0b3b832488de48eb941d3bd1bfc72b9/screenshots/HighlightedCars.png)
 
 
 

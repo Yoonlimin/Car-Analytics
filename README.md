@@ -20,16 +20,16 @@
     ```
 3. Install the dependencies:
     ```bash
-    npm install<br>
-    or<br>
+    npm install
+    or
     pnpm install
     ```
 
 ## Usage
 1. Start the application:
     ```bash
-    npm start<br>
-    or<br>
+    npm start
+    or
     pnpm run dev
     ```
 2. Open your browser and go to `http://localhost:3000` to view the application.

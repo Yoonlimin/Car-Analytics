@@ -1,2 +1,32 @@
-# Car-Analytics
-Car Analytics is a tool for analyzing various car models, their market values, and other relevant data. It helps users to gain insights into car trends and make informed decisions.
+#Car Analytics Dashboard
+Overview
+The Car Analytics Dashboard is a comprehensive tool designed to analyze and visualize car market data. It provides insights into various car metrics such as price trends, popular models, and market demand, helping users make informed decisions when buying or selling cars.
+
+Features
+Market Analysis: Provides insights into the current car market, including price trends, demand, and popular models.
+Interactive Visualizations: Various charts and graphs to visualize car data trends.
+Data Filtering: Filter data based on various parameters like model, make, year, and price.
+User-Friendly Interface: Intuitive and easy-to-navigate UI for seamless user experience.
+
+Team Members
+Su Myat Noe
+Yoon Waddy Myo Myint
+Myat Min Phyo
+
+Currently, two official plugins are available:
+
+@vitejs/plugin-react uses Babel for Fast Refresh
+@vitejs/plugin-react-swc uses SWC for Fast Refresh
+GitHub
+vite-plugin-react/packages/plugin-react/README.md at main · vitejs/...
+The all-in-one Vite plugin for React projects. Contribute to vitejs/vite-plugin-react development by creating an account on GitHub.
+vite-plugin-react/packages/plugin-react/README.md at main · vitejs/...
+Babel · Babel
+The compiler for next generation JavaScript
+GitHub
+GitHub - vitejs/vite-plugin-react-swc: Speed up your Vite dev serve...
+Speed up your Vite dev server with SWC. Contribute to vitejs/vite-plugin-react-swc development by creating an account on GitHub.
+GitHub - vitejs/vite-plugin-react-swc: Speed up your Vite dev serve...
+Rust-based platform for the Web – SWC
+SWC is an extensible Rust-based platform for the next generation of fast developer tools. It's used by tools like Next.js, Parcel, and Deno, as well as companies like Vercel, ByteDance, Tencent, Shopify, and more.
+Rust-based platform for the Web – SWC

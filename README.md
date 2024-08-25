@@ -14,20 +14,17 @@ Yoon Waddy Myo Myint<br>
 Myat Min Phyo<br>
 
 
+## Official Plugins
+
 Currently, two official plugins are available:
 
-@vitejs/plugin-react uses Babel for Fast Refresh
-@vitejs/plugin-react-swc uses SWC for Fast Refresh
-GitHub
-vite-plugin-react/packages/plugin-react/README.md at main · vitejs/...
-The all-in-one Vite plugin for React projects. Contribute to vitejs/vite-plugin-react development by creating an account on GitHub.
-vite-plugin-react/packages/plugin-react/README.md at main · vitejs/...
-Babel · Babel
-The compiler for next generation JavaScript
-GitHub
-GitHub - vitejs/vite-plugin-react-swc: Speed up your Vite dev serve...
-Speed up your Vite dev server with SWC. Contribute to vitejs/vite-plugin-react-swc development by creating an account on GitHub.
-GitHub - vitejs/vite-plugin-react-swc: Speed up your Vite dev serve...
-Rust-based platform for the Web – SWC
-SWC is an extensible Rust-based platform for the next generation of fast developer tools. It's used by tools like Next.js, Parcel, and Deno, as well as companies like Vercel, ByteDance, Tencent, Shopify, and more.
-Rust-based platform for the Web – SWC
+- @vitejs/plugin-react uses Babel for Fast Refresh
+- @vitejs/plugin-react-swc uses SWC for Fast Refresh
+
+## Additional Resources
+
+- GitHub vite-plugin-react/packages/plugin-react/README.md at main · vitejs/...
+- Babel - The compiler for next generation JavaScript
+- GitHub - vitejs/vite-plugin-react-swc: Speed up your Vite dev server with SWC
+- Rust-based platform for the Web – SWC - SWC is an extensible Rust-based platform for the next generation of fast developer tools. It's used by tools like Next.js, Parcel, and Deno, as well as companies like Vercel, ByteDance, Tencent, Shopify, and more.
+

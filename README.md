@@ -9,9 +9,10 @@ Data Filtering: Filter data based on various parameters like model, make, year, 
 User-Friendly Interface: Intuitive and easy-to-navigate UI for seamless user experience.
 
 # Team Members
-Su Myat Noe ,
-Yoon Waddy Myo Myint ,
-Myat Min Phyo ,
+Su Myat Noe<br>
+Yoon Waddy Myo Myint<br>
+Myat Min Phyo<br>
+
 
 Currently, two official plugins are available:
 

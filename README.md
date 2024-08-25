@@ -1,14 +1,14 @@
 # Car_Analytics 
-# Overview
+## Overview
  The Car Analytics Dashboard is a comprehensive tool designed to analyze and visualize car market data. It provides insights into various car metrics such as price trends, popular models, and market demand, helping users make informed decisions when buying or selling cars.
 
-# Features
+## Features
 Market Analysis: Provides insights into the current car market, including price trends, demand, and popular models.
 Interactive Visualizations: Various charts and graphs to visualize car data trends.
 Data Filtering: Filter data based on various parameters like model, make, year, and price.
 User-Friendly Interface: Intuitive and easy-to-navigate UI for seamless user experience.
 
-# Team Members
+## Team Members
 Su Myat Noe<br>
 Yoon Waddy Myo Myint<br>
 Myat Min Phyo<br>

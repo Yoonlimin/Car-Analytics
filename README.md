@@ -1,4 +1,4 @@
-# Car_Analytics 
+# Car_Analytics (Web_Application_Development_Project1)
 ## Overview
   The Car Analytics Dashboard is a robust tool designed to analyze and visualize car market data. It offers valuable insights into various car metrics such as prices, models, and images, aiding market owners and users in making well-informed decisions. The dashboard comprises two primary pages:
 
